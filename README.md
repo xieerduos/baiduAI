@@ -64,4 +64,15 @@ $ git commit -m '创建index.html文件'
  create mode 100644 README.md
  create mode 100644 index.html
  create mode 100644 reset.css
+
+ # 6. 使用 git status 查看当前工作区是否提交成功
+$ git status
+On branch master
+nothing to commit, working tree clean
+在master分支
+没有可以提交的，工作区是干净的
+
 ```
+
+## 将本地的代码提交到github
+
