@@ -3,7 +3,7 @@
 https://ai.baidu.com/support/news?action=detail&id=1603
 
 
-### github 步骤
+### git github 入门使用步骤
 
 ```bash
 # 1. 初始化本地仓库
@@ -75,14 +75,15 @@ nothing to commit, working tree clean
 ```
 
 ## 将本地的代码提交到github
-创建仓库
+1. 点击创建按钮
 ![7121575472434_.pic_hd.jpg](./imgs/7121575472434_.pic_hd.jpg)
-
-![7121575472434_.pic_thumb_preview.jpg](./imgs/7121575472434_.pic_thumb_preview.jpg)
-![7121575472434_.pic_hd.jpg](./imgs/7121575472434_.pic_hd.jpg)
-![7121575472434_.pic_hd.jpg](./imgs/7121575472434_.pic_hd.jpg)
-![7121575472434_.pic_hd.jpg](./imgs/7121575472434_.pic_hd.jpg)
-![7121575472434_.pic_hd.jpg](./imgs/7121575472434_.pic_hd.jpg)
-![7121575472434_.pic_hd.jpg](./imgs/7121575472434_.pic_hd.jpg)
-![7121575472434_.pic_hd.jpg](./imgs/7121575472434_.pic_hd.jpg)
-![7121575472434_.pic_hd.jpg](./imgs/7121575472434_.pic_hd.jpg)
+2. 填写仓库名称
+![7131575472516_.pic_hd.jpg](./imgs/7131575472516_.pic_hd.jpg)
+3. 复制 添加远程URL和push 命令
+![7141575472682_.pic_hd.jpg](./imgs/7141575472682_.pic_hd.jpg)
+4. 粘贴命令
+![7161575472764_.pic_hd.jpg](./imgs/7161575472764_.pic_hd.jpg)
+5. 本地提交成功
+![7171575472812_.pic_hd.jpg](./imgs/7171575472812_.pic_hd.jpg)
+6. 刷新浏览器
+![7181575472834_.pic_hd.jpg](./imgs/7181575472834_.pic_hd.jpg)
